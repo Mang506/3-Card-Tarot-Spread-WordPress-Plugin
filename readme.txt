@@ -2,7 +2,7 @@
 Author URI: https://www.506studios.com
 Plugin URI: https://www.506studios.com/tarotplugin
 Donate link: 
-Contributors: 
+Contributors: Matthew Rubly
 Tags: 
 Requires at least: 
 Tested up to: 
